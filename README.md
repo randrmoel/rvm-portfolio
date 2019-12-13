@@ -10,10 +10,6 @@ In your local machine create a folder called rvm-portfolio. In rvm-portfolio cop
 
 You should be running chrome version 78 or above and windows 10.
 
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
