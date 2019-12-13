@@ -12,11 +12,10 @@ You should be running chrome version 78 or above and windows 10.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Ensure you have chrome and operating system running as expected.  Load the files and the system you run.
 
 
-## Authors
+## Author
 
 * **Robert V. Moel** 
+* **Last update: Dec 13, 2019**
