@@ -63,7 +63,7 @@ nav {
     padding:10px 1px 10px 1px;
     border: 0 0 0 0;
     clear:both; 
-    height:80vh;
+    height:82vh;
 }
 
 .container2 {
@@ -92,7 +92,7 @@ nav {
     font-size:50%;
     color:#ffffff;
     background-color: #666666;
-    margin: auto auto auto auto;
+    margin: 0 auto auto auto;
     flex-shrink: 0;
     text-align: center;
     width:100%;
