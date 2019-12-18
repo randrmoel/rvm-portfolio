@@ -83,7 +83,7 @@ nav {
 .container2 {
     width: 960px;
     margin: auto auto auto auto;
-    padding:0px 15px 150px 15px;
+    padding:0px 15px 130px 15px;
     background-color:#ffffff;
     position: relative;
     top: 20px;
@@ -177,5 +177,3 @@ label {
     margin: 15px;
     float:left;
 }
-
-
